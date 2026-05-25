@@ -72,10 +72,10 @@ Buka browser: **http://localhost:8000**
 
 | Role    | Email                    | Password |
 |---------|--------------------------|----------|
-| Admin   | admin@perpustakaan.com   | password |
-| Petugas | petugas@perpustakaan.com | password |
-| Anggota | budi@example.com         | password |
-| Anggota | siti@example.com         | password |
+| Admin   | admin@perpustakaan.com   | @nunai12345|
+| Petugas | petugas@perpustakaan.com |  @nunai12345 |
+| Anggota | budi@example.com         |  @nunai12345 |
+| Anggota | siti@example.com         |  @nunai12345 |
 
 ---
 
